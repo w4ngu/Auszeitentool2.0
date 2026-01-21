@@ -1,4 +1,4 @@
-# 🛠️ Cargologic Instandhaltungssystem
+# 🛠️ Instandhaltungssystem
 
 Ein modernes Wartungs- und Auszeitenverwaltungssystem für die Überwachung und Planung von Systemausfällen und Wartungsarbeiten.
 
