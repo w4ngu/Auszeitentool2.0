@@ -34,7 +34,7 @@ Ein modernes Wartungs- und Auszeitenverwaltungssystem für die Überwachung und 
 
 ## 🎯 Überblick
 
-Das **Cargologic Instandhaltungssystem** ist eine Webanwendung zur Verwaltung von geplanten Wartungsarbeiten und Systemauszeiten. Es besteht aus zwei Hauptbereichen:
+Das **Instandhaltungssystem** ist eine Webanwendung zur Verwaltung von geplanten Wartungsarbeiten und Systemauszeiten. Es besteht aus zwei Hauptbereichen:
 
 ### 🖥️ Öffentlicher Status-Monitor
 - Echtzeit-Anzeige aller aktiven und geplanten Auszeiten
@@ -734,9 +734,7 @@ CRON_SECRET="optional-sicherer-string"
 
 ## 📄 Lizenz
 
-Dieses Projekt wurde von E. Ugurcan Cam unter Einsatz von KI-Technologien (Windsurf/Cascade) und eigenständigem Fachwissen für das Unternehmen Cargologic AG entwickelt.
-
-**© 2025-2026 Cargologic AG - Alle Rechte vorbehalten**
+Dieses Projekt wurde von E. Ugurcan Cam unter Einsatz von KI-Technologien und eigenständigem Fachwissen Aentwickelt.
 
 ---
 
